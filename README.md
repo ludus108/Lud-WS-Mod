@@ -1,4 +1,6 @@
-#. Lud-WS-Mod
+# Lud-WS-Mod
+
+mcu: Pi Pico RP2040
 
  Ctrl: 
 Chorus : triple chorus (TDA1022) + Eq 6 bande 

@@ -1,8 +1,8 @@
 # Lud-WS-Mod
-
+v. 0.0.1
 mcu: Pi Pico RP2040
 
- Ctrl: 
+Controlla: 
 Chorus : triple chorus (TDA1022) + Eq 6 bande 
 Phaser : PT9
 Reverb : FV1
